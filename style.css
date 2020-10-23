@@ -1,0 +1,32 @@
+body {
+  background-color: darkgrey;
+}
+
+#container {
+  width: 70%;
+  margin: auto;
+}
+
+
+.grid {
+  width: 550px;
+  height: 800px;
+  background-color: darkcyan;
+  position: relative;
+  margin: auto;
+}
+
+
+.doodler {
+  width: 60px;
+  height: 80px;
+  background-color: blue;
+  position: absolute;
+}
+
+.platform {
+  width: 80px;
+  height: 15px;
+  background-color: green;
+  position: absolute;
+}
