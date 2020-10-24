@@ -14,6 +14,8 @@ body {
   background-color: darkcyan;
   position: relative;
   margin: auto;
+  text-align: center;
+  font-size: 100px;
 }
 
 
